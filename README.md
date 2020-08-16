@@ -39,6 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [htmltopdf converter  #fastify | Node JS | JavaScript | Fastify](https://www.youtube.com/watch?v=cDQIoWARyYU)
+- [Websockets in nodejs #fastify | Node Js | JavaScript | Fastify | Websockets](https://www.youtube.com/watch?v=MfpL8AXVmW4)
+- [API Documentation with swagger #fastify | Node Js | JavaScript | Fastify | Swagger 👨‍💻👨‍💻](https://www.youtube.com/watch?v=amhgPslfGNo)
+- [JWT Authentication in Node Js | Node Js | JavaScript | Fastify #fastify](https://www.youtube.com/watch?v=KGhzJsMCtgY)
+- [Setting up Node Js API Server #Fastify | Node Js | JavaScript | Fastify | Node Server 🤩👨‍💻👨‍💻](https://www.youtube.com/watch?v=GtTSp0lPJEc)
 <!-- YOUTUBE:END -->
 
 

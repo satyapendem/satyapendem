@@ -46,7 +46,8 @@
 - [Setting up Node Js API Server #Fastify | Node Js | JavaScript | Fastify | Node Server 🤩👨‍💻👨‍💻](https://www.youtube.com/watch?v=GtTSp0lPJEc)
 <!-- YOUTUBE:END -->
 
-
+## GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyapendem)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://satyapendem.com

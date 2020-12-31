@@ -3,8 +3,8 @@
 
 ## I'm a Husband, Developer🧑‍💻, and Photographer📸!
 
-- 🔭 I’m currently working in Homelane as SDE1 !
-- 🌱 I’m currently learning Python, Nodejs and Java 
+- 🔭 I’m currently working in Homelane as SDE2 !
+- 🌱 I’m currently working with Python, Nodejs, Reactjs, Redux and Java
 - 🥅 2020 Goals: Master in Nodejs and Java.
 - ⚡ Fun fact: I love to click 📸 beautiful photos!
 

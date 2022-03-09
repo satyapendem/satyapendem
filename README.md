@@ -3,9 +3,9 @@
 
 ## I'm a Husband, Developer🧑‍💻, and Photographer📸!
 
-- 🔭 I’m currently working in Homelane as SDE2 !
+- 🔭 I’m currently working in HCL as Senior Software Engineer 1 !
 - 🌱 I’m currently working with Python, Nodejs, Reactjs, Redux and Java
-- 🥅 2020 Goals: Master in Nodejs and Java.
+- 🥅 2022 Goals: Master in Nodejs and pyspark.
 - ⚡ Fun fact: I love to click 📸 beautiful photos!
 
 

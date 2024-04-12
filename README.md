@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in HCL Software as Senior Software Engineer 1 !
 - 🌱 I’m currently working with Python, Nodejs, Reactjs, Redux and Java
-- 🥅 2022 Goals: Master in Nodejs and pyspark.
+- 🥅 2024 Goals: Master in GoLand and Designe Patterns.
 - ⚡ Fun fact: I love to click 📸 beautiful photos!
 
 

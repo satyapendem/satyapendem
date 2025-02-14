@@ -3,9 +3,9 @@
 
 ## I'm a Husband, Developer🧑‍💻, and Photographer📸!
 
-- 🔭 I’m currently working in HCL Software as Senior Software Engineer 1 !
+- 🔭 I’m currently working in HCL Software as Senior Software Engineer II !
 - 🌱 I’m currently working with Python, Nodejs, Reactjs, Redux and Java
-- 🥅 2024 Goals: Master in GoLand and Designe Patterns.
+- 🥅 2025 Goals: Master in GoLang.
 - ⚡ Fun fact: I love to click 📸 beautiful photos!
 
 

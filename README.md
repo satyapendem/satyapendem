@@ -1,12 +1,20 @@
-### Hi there, I'm Satya 👋
+### Hey there, Internet Human 👋 I'm Satya — Debugger of Bugs, Slayer of Semicolons ⚔️
 
+## Husband ❤️ | Father 🍼 | Developer 💻 | Photographer 📸 | Professional Coffee Dependant ☕
 
-## I'm a Husband, Developer🧑‍💻, and Photographer📸!
+* 🔭 Currently engineering software magic at **HCL Software** as a **Senior Software Engineer II** (basically means I Google faster than most).
+* 🧠 Fluent in **Python**, **Node.js**, **React.js**, **Redux**, and **Java** — my code editor throws a party every time I open it.
+* 🌱 Currently wrestling with **GoLang** because apparently, I didn’t have enough existential crises already.
+* 📸 In my spare time, I point a camera at stuff and pretend it’s art.
+* 🛠️ Once fixed a production bug at 3 AM using sheer willpower, Stack Overflow, and three cups of coffee.
+* 🧙‍♂️ My git commit messages range from “fixed stuff” to “what even is life.”
+* 🧃 Strong advocate for hydration, clean code, and snacks during meetings.
+* 🕹️ Can deploy to prod and play with my baby using only one hand. Legend? Maybe.
+* 🧩 Certified in rubber duck debugging and summoning backend APIs with Java incantations.
 
-- 🔭 I’m currently working in HCL Software as Senior Software Engineer II !
-- 🌱 I’m currently working with Python, Nodejs, Reactjs, Redux and Java
-- 🥅 2025 Goals: Master in GoLang.
-- ⚡ Fun fact: I love to click 📸 beautiful photos!
+> *"Why fix one bug when you can introduce three new ones and call it a feature?"* – Me, probably
+
+Let’s code, laugh, and occasionally cry over merge conflicts together! 💻✨
 
 
 ### Connect with me:
